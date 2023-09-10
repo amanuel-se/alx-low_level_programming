@@ -2,7 +2,7 @@
 /**
  * main - Entry point of the program
  *
- * Description: This is the entry point of the program. It is where the program starts executing.
+ * Description: This is the entry point of the program.
  *
  * Return: Always 0 (Success)
  */

@@ -11,21 +11,15 @@
 int main(void)
 {
 	int i;
-	int j;
+	char c;
 
-	for (i = 0; i < 16 ; i++)
-	{	
-	if (i >= 10)
-	{	
-	for (j = 'a'; j <= 'f'; j++)
+	for (i = 0; i < 10 ; i++)
 	{
-		putchar(j);
-	}
-	}
-	else
-	{	
 		putchar(i);
-	}
+	}	
+	for (ch = 'a'; ch <= 'f'; ch++)
+	{
+		putchar (ch);
 	}
 	putchar('\n');
 	return (0);

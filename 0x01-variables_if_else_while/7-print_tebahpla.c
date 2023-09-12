@@ -10,11 +10,18 @@
 
 int main(void)
 {
-	char ch;
+        char ch;
 
-	for (ch = 'z'; ch >= 'a'; ch--)
+	for (i = 0; i < 16 ; i++)
 	{
-	putchar(ch);
+	if (i >= 10)
+	{
+	for (j = 'a'; j <= 'f'; j++)
+        }
+	else 
+	{
+		putchar(ch);
+	}	
 	}
 	putchar('\n');
 	return (0);

@@ -11,7 +11,7 @@
 int main(void)
 {
 	int i;
-	char c;
+	char ch;
 
 	for (i = 0; i < 10 ; i++)
 	{

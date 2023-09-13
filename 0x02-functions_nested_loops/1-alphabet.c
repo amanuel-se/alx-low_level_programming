@@ -3,7 +3,7 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * main - Entry point of the program
+ * print_alphabet - Entry point of the program
  *
  * Description: This is the entry point of the program.
  *

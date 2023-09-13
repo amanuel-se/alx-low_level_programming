@@ -8,7 +8,7 @@
  * Description: This is the entry point of the program.
  *
  * @n: the character to be checked
- * Retur last digit
+ * Return: last digit
  */
 int print_last_digit(int n)
 {

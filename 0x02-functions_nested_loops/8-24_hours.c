@@ -3,7 +3,7 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * jack_bauer( - Entry point of the program
+ * jack_bauer - Entry point of the program
  *
  * Description: This is the entry point of the program.
  *

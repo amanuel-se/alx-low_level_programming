@@ -3,11 +3,11 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * int _islower(int c) - Entry point of the program
+ * _islower - Entry point of the program
  *
  * Description: This is the entry point of the program.
- *
- * Return: Always 0 (Success)
+ *  * @c: is the char to be checked
+ * Return: 1 if char is lowercase, otherwise 0.
  */
 int _islower(int c)
 {

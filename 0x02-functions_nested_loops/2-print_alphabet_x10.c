@@ -3,13 +3,13 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * print_alphabet - Entry point of the program
+ * void print_alphabet_x10(void) - Entry point of the program
  *
  * Description: This is the entry point of the program.
  *
  * Return: Always 0 (Success)
  */
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
         char ch;
 	int i = 0;

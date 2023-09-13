@@ -3,7 +3,7 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- * void print_alphabet_x10 - Entry point of the program
+ * print_alphabet_x10 - Entry point of the program
  *
  * Description: This is the entry point of the program.
  *
@@ -13,7 +13,7 @@ void print_alphabet_x10(void)
 {
 	char ch;
 	int i = 0;
-
+	
 	while(i<10)
 	{
 		ch = 'a';

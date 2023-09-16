@@ -1,7 +1,4 @@
 #include "main.h"
-/* more headers goes there */
-#include <stdio.h>
-/* betty style doc for function main goes there */
 /**
  * mul - Entry point of the program
  *
@@ -13,5 +10,5 @@
  */
 int mul(int a, int b)
 {
-	return (a*b);
+	return (a * b);
 }

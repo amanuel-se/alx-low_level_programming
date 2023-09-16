@@ -6,9 +6,9 @@
  * mul - Entry point of the program
  *
  * Description: This is the entry point of the program.
- * @a : first int
- * @b : second i 
- * Return : multiplicaion
+ * @a: first int
+ * @b: second i 
+ * Return: multiplicaion
  */
 int mul(int a, int b)
 {

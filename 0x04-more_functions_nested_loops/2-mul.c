@@ -8,8 +8,10 @@
  * Description: This is the entry point of the program.
  * @a : first int
  * @b : second int
+ * 
  * Return : multiplicaion
  */
+
 int mul(int a, int b)
 {
 	return (a * b);

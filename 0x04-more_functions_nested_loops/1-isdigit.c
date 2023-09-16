@@ -3,7 +3,7 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- *  _isdigit - Entry point of the program
+ * _isdigit - Entry point of the program
  *
  * Description: This is the entry point of the program.
  * @c : to check
@@ -11,7 +11,7 @@
  */
 int _isdigit(int c)
 {
-	if (c >= '0' && c<= '9')
+	if (c >= '0' && c <= '9')
 		return (1);
 	else
 		return (0);

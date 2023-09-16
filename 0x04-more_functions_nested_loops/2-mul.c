@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * mul - Entry point of the program
+ * mul - multiply 2 int
  *
  * Description: This is the entry point of the program.
  *
@@ -10,4 +10,6 @@
  */
 
 int mul(int a, int b)
+{
 	return (a * b);
+}

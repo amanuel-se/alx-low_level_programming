@@ -7,8 +7,7 @@
  *
  * Description: This is the entry point of the program.
  * @a : first int
- * @b : second int
- * 
+ * @b : second i 
  * Return : multiplicaion
  */
 int mul(int a, int b)

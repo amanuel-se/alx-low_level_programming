@@ -5,7 +5,6 @@
  * Description: This is the entry point of the program.
  * Return: void
  */
-
 void print_numbers(void)
 {
 	char c;

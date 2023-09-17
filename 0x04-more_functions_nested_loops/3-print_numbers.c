@@ -1,10 +1,8 @@
 #include "main.h"
 /**
- * print_numbers  - print 0 to 9
+ * print_numbers - print 0 to 9
  *
  * Description: This is the entry point of the program.
- *
- * @c: to check
  * Return: void
  */
 

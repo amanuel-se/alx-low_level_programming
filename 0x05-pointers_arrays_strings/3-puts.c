@@ -6,6 +6,7 @@
  * _puts - Entry point of the program
  *
  * Description: This is the entry point of the program.
+ * str: string
  * Return: 0
  */
 void _puts(char *str)

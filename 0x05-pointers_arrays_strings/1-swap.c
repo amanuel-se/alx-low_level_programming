@@ -1,4 +1,4 @@
-#include "main.h"
+#include8 "main.h"
 /* more headers goes there */
 #include <stdio.h>
 /* betty style doc for function main goes there */
@@ -13,9 +13,9 @@
  */
 void swap_int(int *a, int *b)
 {
-	int m;
+	int *m;
 
-	m = *a
+	*m = *a
 	*a = *b;
-	*b = m;
+	*b = *m;
 }

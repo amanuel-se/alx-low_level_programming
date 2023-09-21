@@ -3,7 +3,7 @@
  * _strncpy - copy
  * @dest: input value
  * @src: input value
- *
+ * @n: number of byte
  * Return: dest
  */
 char *_strncpy(char *dest, char *src, int n)

@@ -4,22 +4,20 @@
  * main - Entry point of the program
  *
  * Description: This is the entry point of the program.
- *
  * Return: Always 0 (Success)
  */
 
 int main(void)
 {
 	int i;
-	char ch;
 
-	for (i = '0'; i < '10' ; i++)
+	for (i = 48; i < 58; i++)
 	{
 		putchar(i);
 	}
-	for (ch = 'a'; ch <= 'f'; ch++)
+	for (i = 97; i < 103; i++)
 	{
-		putchar (ch);
+		putchar(i);
 	}
 	putchar('\n');
 	return (0);

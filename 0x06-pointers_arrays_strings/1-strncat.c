@@ -4,7 +4,7 @@
  * @dest: input value
  * @src: input value
  * @n: number of byte
- * Return: void
+ * Return: dest
  */
 
 char *_strncat(char *dest, char *src, int n)
@@ -15,7 +15,7 @@ char *_strncat(char *dest, char *src, int n)
 	i = 0;
 	while (dest[i] != '\0')
 	{
-		i+++;
+		i++;
 	}
 	j = 0;
 	while (src[j] != '\0' && j < n)
